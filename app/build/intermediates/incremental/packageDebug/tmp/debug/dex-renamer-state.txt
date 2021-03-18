@@ -1,0 +1,4 @@
+#Thu Mar 18 13:42:40 IST 2021
+base.0=/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

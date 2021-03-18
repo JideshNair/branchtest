@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/build/intermediates/res/merged/debug/drawable_email_pressed.png.flat",
+        "source": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/src/main/res/drawable/email_pressed.png"
+    },
+    {
+        "merged": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/build/intermediates/res/merged/debug/drawable_share_text_selector.xml.flat",
+        "source": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/src/main/res/drawable/share_text_selector.xml"
+    },
+    {
+        "merged": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/build/intermediates/res/merged/debug/drawable_right.png.flat",
+        "source": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/src/main/res/drawable/right.png"
+    },
+    {
+        "merged": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/build/intermediates/res/merged/debug/drawable_twitter_pressed.png.flat",
+        "source": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/src/main/res/drawable/twitter_pressed.png"
+    },
+    {
+        "merged": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/build/intermediates/res/merged/debug/drawable_body2.png.flat",
+        "source": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/src/main/res/drawable/body2.png"
+    },
+    {
+        "merged": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/build/intermediates/res/merged/debug/drawable_up_pressed.png.flat",
+        "source": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/src/main/res/drawable/up_pressed.png"
+    },
+    {
+        "merged": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/build/intermediates/res/merged/debug/drawable_down.png.flat",
+        "source": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/src/main/res/drawable/down.png"
+    },
+    {
+        "merged": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/build/intermediates/res/merged/debug/drawable_branch250.png.flat",
+        "source": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/src/main/res/drawable/branch250.png"
+    },
+    {
+        "merged": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/build/intermediates/res/merged/debug/drawable_face2.png.flat",
+        "source": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/src/main/res/drawable/face2.png"
+    },
+    {
+        "merged": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/build/intermediates/res/merged/debug/drawable_up.png.flat",
+        "source": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/src/main/res/drawable/up.png"
+    },
+    {
+        "merged": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/build/intermediates/res/merged/debug/drawable_right_arrow_selector.xml.flat",
+        "source": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/src/main/res/drawable/right_arrow_selector.xml"
+    },
+    {
+        "merged": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/build/intermediates/res/merged/debug/drawable_text_share.png.flat",
+        "source": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/src/main/res/drawable/text_share.png"
+    },
+    {
+        "merged": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/build/intermediates/res/merged/debug/drawable_share_facebook_selector.xml.flat",
+        "source": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/src/main/res/drawable/share_facebook_selector.xml"
+    },
+    {
+        "merged": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/build/intermediates/res/merged/debug/drawable_body1.png.flat",
+        "source": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/src/main/res/drawable/body1.png"
+    },
+    {
+        "merged": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/build/intermediates/res/merged/debug/drawable_left_pressed.png.flat",
+        "source": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/src/main/res/drawable/left_pressed.png"
+    },
+    {
+        "merged": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/build/intermediates/res/merged/debug/drawable_face3.png.flat",
+        "source": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/src/main/res/drawable/face3.png"
+    },
+    {
+        "merged": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/build/intermediates/res/merged/debug/drawable_facebook_share.png.flat",
+        "source": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/src/main/res/drawable/facebook_share.png"
+    },
+    {
+        "merged": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/build/intermediates/res/merged/debug/layout_activity_monster_creator.xml.flat",
+        "source": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/src/main/res/layout/activity_monster_creator.xml"
+    },
+    {
+        "merged": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/build/intermediates/res/merged/debug/drawable_colours_radio_button.xml.flat",
+        "source": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/src/main/res/drawable/colours_radio_button.xml"
+    },
+    {
+        "merged": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/build/intermediates/res/merged/debug/drawable_colour_button_on.xml.flat",
+        "source": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/src/main/res/drawable/colour_button_on.xml"
+    },
+    {
+        "merged": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/build/intermediates/res/merged/debug/drawable_body0.png.flat",
+        "source": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/src/main/res/drawable/body0.png"
+    },
+    {
+        "merged": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/build/intermediates/res/merged/debug/drawable_share_email_selector.xml.flat",
+        "source": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/src/main/res/drawable/share_email_selector.xml"
+    },
+    {
+        "merged": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/build/intermediates/res/merged/debug/drawable_face0.png.flat",
+        "source": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/src/main/res/drawable/face0.png"
+    },
+    {
+        "merged": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/build/intermediates/res/merged/debug/drawable_left_arrow_selector.xml.flat",
+        "source": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/src/main/res/drawable/left_arrow_selector.xml"
+    },
+    {
+        "merged": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/build/intermediates/res/merged/debug/drawable_ic_launcher.png.flat",
+        "source": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/src/main/res/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/build/intermediates/res/merged/debug/drawable_text_pressed.png.flat",
+        "source": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/src/main/res/drawable/text_pressed.png"
+    },
+    {
+        "merged": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/build/intermediates/res/merged/debug/layout_fragment_info.xml.flat",
+        "source": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/src/main/res/layout/fragment_info.xml"
+    },
+    {
+        "merged": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/build/intermediates/res/merged/debug/drawable_colour_button_off.xml.flat",
+        "source": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/src/main/res/drawable/colour_button_off.xml"
+    },
+    {
+        "merged": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/build/intermediates/res/merged/debug/drawable_splashfactory1.png.flat",
+        "source": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/src/main/res/drawable/splashfactory1.png"
+    },
+    {
+        "merged": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/build/intermediates/res/merged/debug/drawable_right_pressed.png.flat",
+        "source": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/src/main/res/drawable/right_pressed.png"
+    },
+    {
+        "merged": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/build/intermediates/res/merged/debug/drawable_left.png.flat",
+        "source": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/src/main/res/drawable/left.png"
+    },
+    {
+        "merged": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/build/intermediates/res/merged/debug/drawable_body4.png.flat",
+        "source": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/src/main/res/drawable/body4.png"
+    },
+    {
+        "merged": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/build/intermediates/res/merged/debug/drawable_share_twitter_selector.xml.flat",
+        "source": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/src/main/res/drawable/share_twitter_selector.xml"
+    },
+    {
+        "merged": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/build/intermediates/res/merged/debug/drawable_splashfactory.png.flat",
+        "source": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/src/main/res/drawable/splashfactory.png"
+    },
+    {
+        "merged": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/build/intermediates/res/merged/debug/drawable_monster_drawable.xml.flat",
+        "source": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/src/main/res/drawable/monster_drawable.xml"
+    },
+    {
+        "merged": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/build/intermediates/res/merged/debug/anim_push_down_in.xml.flat",
+        "source": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/src/main/res/anim/push_down_in.xml"
+    },
+    {
+        "merged": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/build/intermediates/res/merged/debug/layout_activity_monster_viewer.xml.flat",
+        "source": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/src/main/res/layout/activity_monster_viewer.xml"
+    },
+    {
+        "merged": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/build/intermediates/res/merged/debug/drawable_branchster.png.flat",
+        "source": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/src/main/res/drawable/branchster.png"
+    },
+    {
+        "merged": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/build/intermediates/res/merged/debug/drawable_down_pressed.png.flat",
+        "source": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/src/main/res/drawable/down_pressed.png"
+    },
+    {
+        "merged": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/build/intermediates/res/merged/debug/drawable_face4.png.flat",
+        "source": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/src/main/res/drawable/face4.png"
+    },
+    {
+        "merged": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/build/intermediates/res/merged/debug/drawable_down_arrow_selector.xml.flat",
+        "source": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/src/main/res/drawable/down_arrow_selector.xml"
+    },
+    {
+        "merged": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/build/intermediates/res/merged/debug/layout_activity_splash.xml.flat",
+        "source": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/build/intermediates/res/merged/debug/drawable_splashfactory2.png.flat",
+        "source": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/src/main/res/drawable/splashfactory2.png"
+    },
+    {
+        "merged": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/build/intermediates/res/merged/debug/drawable_facebook_pressed.png.flat",
+        "source": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/src/main/res/drawable/facebook_pressed.png"
+    },
+    {
+        "merged": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/build/intermediates/res/merged/debug/drawable_twitter_share.png.flat",
+        "source": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/src/main/res/drawable/twitter_share.png"
+    },
+    {
+        "merged": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/build/intermediates/res/merged/debug/drawable_email_share.png.flat",
+        "source": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/src/main/res/drawable/email_share.png"
+    },
+    {
+        "merged": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/build/intermediates/res/merged/debug/drawable_face1.png.flat",
+        "source": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/src/main/res/drawable/face1.png"
+    },
+    {
+        "merged": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/build/intermediates/res/merged/debug/drawable_up_arrow_selector.xml.flat",
+        "source": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/src/main/res/drawable/up_arrow_selector.xml"
+    },
+    {
+        "merged": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/build/intermediates/res/merged/debug/drawable_body3.png.flat",
+        "source": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/src/main/res/drawable/body3.png"
+    },
+    {
+        "merged": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/build/intermediates/res/merged/debug/drawable_description_background.xml.flat",
+        "source": "/Users/jidesh/Downloads/Branchster-Android-No-SDK/app/src/main/res/drawable/description_background.xml"
+    }
+]
